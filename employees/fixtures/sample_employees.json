@@ -1,0 +1,24 @@
+[
+    {
+        "model": "employees.employee",
+        "pk": 1,
+        "fields": {
+            "name": "Jay Pathare",
+            "email": "jay.pathare@example.com",
+            "department": "IT",
+            "salary": 60000,
+            "joining_date": "2023-06-01"
+        }
+    },
+    {
+        "model": "employees.employee",
+        "pk": 2,
+        "fields": {
+            "name": "Tanmay Guru",
+            "email": "tanmay.guru@example.com",
+            "department": "HR",
+            "salary": 55000,
+            "joining_date": "2022-09-15"
+        }
+    }
+]
